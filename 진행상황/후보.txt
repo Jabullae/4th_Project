@@ -1,0 +1,28 @@
+ ★후보★
+
+ 1. garbage classification 
+   https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+ 2. plastic and paper cups
+   https://www.kaggle.com/datasets/vencerlanz09/plastic-and-paper-cups-synthetic-image-dataset
+
+ 3. AI hub 폐플라스틱 데이터
+   https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=495
+
+ 4. Plastic - Paper - Garbage Bag Synthetic Images
+   https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag-synthetic-images
+
+ 5. Bottles Synthetic Images 
+   https://www.kaggle.com/datasets/vencerlanz09/bottle-synthetic-images-dataset
+
+ 6. Garbage Classification (12 classes)
+   https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+
+ 7. Garbage classification dataset
+   https://www.kaggle.com/datasets/manonstr/tipe-webscraping
+
+  
+ 코드 : 동률, 보원, 경민
+ html, 플라스크 : 혜인
+ 
+ 

@@ -1,0 +1,28 @@
+['Cigarette', 'Unlabeled litter', 'Other plastic wrapper', 'Plastic straw', 
+         'Aluminium foil', 'Tissues', 'Rope & strings', 'Aluminium blister pack', 
+         'Paper straw', 'Plastic glooves', 'Shoe'] => trash(일반쓰레기)
+
+['Plastic film', 'Clear plastic bottle', 'Other plastic', 'Plastic bottle cap', 
+           'Disposable plastic cup', 'Spread tub', 'Other plastic bottle', 'Plastic lid', 
+           'Disposable food container', 'Other plastic cup', 'Carded blister pack', 'Plastic utensils', 
+           'Squeezable tube', 'Other plastic container', 'Six pack rings', 'Tupperware', 'Polypropylene bag'] => plastic(플라스틱)
+
+
+['Drink can', 'Pop tab', 'Metal bottle cap', 'Food Can', 'Aerosol', 'Metal lid', 'Scrap metal'] => metal(철)
+
+['Broken glass', 'Glass bottle', 'Glass jar', 'Glass cup'] => glass(유리)
+
+['Styrofoam piece', 'Foam food container', 'Foam cup'] => styrofoam(스티로폼)
+
+['Other carton', 'Plastified paper bag', 'Normal paper', 'Meal carton', 'Paper cup', 
+         'Corrugated carton', 'Wrapping paper', 'Toilet tube', 'Magazine paper', 'Egg carton', 
+         'Paper bag', 'Drink carton', 'Pizza box'] => paper(종이)
+
+['Single-use carrier bag', 'Crisp packet', 'Garbage bag'] => vinyl(비닐)
+
+['food waste'] => food waste(음식물쓰레기)
+
+['Battery'] => battery(배터리)
+
+- 60개 카테고리를 9개로 줄임
+- 각 카테고리를 0~8로 라벨링
